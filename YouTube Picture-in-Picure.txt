@@ -1,0 +1,8 @@
+javascript:(function() {
+    var video = document.querySelector('video');
+    if (video !== null) {
+        video.requestPictureInPicture();
+    } else {
+        alert("No video found on this page");
+    }
+})();
