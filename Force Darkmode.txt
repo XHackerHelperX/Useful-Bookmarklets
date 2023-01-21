@@ -1,0 +1,13 @@
+javascript:(function() {
+    var darkModeCss = `
+    * {
+        background-color: #111111 !important;
+        color: #f2f2f2 !important;
+    }
+    `;
+    var head = document.head || document.getElementsByTagName('head')[0];
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.appendChild(document.createTextNode(darkModeCss));
+    head.appendChild(style);
+})();

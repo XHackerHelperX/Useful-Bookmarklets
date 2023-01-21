@@ -1,0 +1,5 @@
+javascript:(function() {
+    var zoomLevel = prompt("Enter the zoom level you want (e.g. 150 for 150% zoom):");
+    document.body.style.zoom = zoomLevel + "%";
+})();
+
