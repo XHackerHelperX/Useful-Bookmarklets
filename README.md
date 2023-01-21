@@ -3,7 +3,7 @@ These peices of code are ment to be put into the form of a bookmark. Then, when 
 I am adding more and more soon so just wait!!
 
 What you need to know about each bookmarklet
-=================================================================================================================================================================
+=
 Zoom Bookmarklet.txt: 
 =
 You can add this code as a bookmark in your browser's bookmarks toolbar and then click on it when you're on a webpage.
@@ -35,3 +35,12 @@ Keep in mind that this will only change the title of the tab, and it will not ch
 
 Also, some website may have certain restrictions that could prevent you from changing the title, so you should check if it's possible to edit the title before using the bookmarklet.
 
+YouTube Picture-In-Picture:
+=
+You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a YouTube video page.
+
+This bookmarklet uses JavaScript to find the first video element on the page and request Picture-in-Picture mode for it.
+
+It's worth noting that this is a basic example, and it would work only if the website follows the same structure as YouTube. Also, the Picture-in-picture mode is a feature that is supported by the browser, and not all browsers support it, so in some cases the bookmarklet would not work.
+
+It's also important to mention that this feature is enabled only on specific sites by default, and you need to give explicit permission to use the feature on other sites, so please make sure that the feature is enabled on the site you want to use the bookmarklet on.
