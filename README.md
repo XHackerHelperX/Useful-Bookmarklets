@@ -4,7 +4,9 @@ I am adding more and more soon so just wait!!
 
 What you need to know about each bookmarklet
 =================================================================================================================================================================
-Zoom Bookmarklet.txt: You can add this code as a bookmark in your browser's bookmarks toolbar and then click on it when you're on a webpage.
+Zoom Bookmarklet.txt: 
+=
+You can add this code as a bookmark in your browser's bookmarks toolbar and then click on it when you're on a webpage.
 
 You can also customize the function to your needs, this is just a basic example.
 
@@ -13,7 +15,9 @@ Also, keep in mind that the zoom level can be changed by the user via the settin
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Force Darkmode.txt: You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
+Force Darkmode.txt: 
+=
+You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
 
 This bookmarklet uses JavaScript to create a new style element and add it to the head of the page. The CSS within the style element changes the background color and text color of all elements to a dark color scheme.
 
@@ -23,7 +27,9 @@ Also, depending on the website, this may cause issues with certain elements that
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Tab Title Changer.txt: You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
+Tab Title Changer.txt: 
+=
+You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
 
 This bookmarklet uses JavaScript to prompt the user to enter a new title, and then sets the document's title to the new title.
 
