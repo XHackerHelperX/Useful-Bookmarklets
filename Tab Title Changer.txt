@@ -1,0 +1,6 @@
+javascript:(function() {
+    var newTitle = prompt("Enter the new title for this tab:");
+    if (newTitle !== null) {
+        document.title = newTitle;
+    }
+})();
