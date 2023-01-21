@@ -10,7 +10,7 @@ You can also customize the function to your needs, this is just a basic example.
 Note that this approach may not be compatible with all browsers, and alternative approaches may be needed to achieve the same result in other browsers.
 Also, keep in mind that the zoom level can be changed by the user via the settings and if the user changes the zoom level, the bookmarklet will not work anymore.
 
-Force Dark mode: You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
+Force Darkmode.txt: You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
 
 This bookmarklet uses JavaScript to create a new style element and add it to the head of the page. The CSS within the style element changes the background color and text color of all elements to a dark color scheme.
 
