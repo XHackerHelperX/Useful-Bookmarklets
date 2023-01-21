@@ -13,7 +13,6 @@ You can also customize the function to your needs, this is just a basic example.
 Note that this approach may not be compatible with all browsers, and alternative approaches may be needed to achieve the same result in other browsers.
 Also, keep in mind that the zoom level can be changed by the user via the settings and if the user changes the zoom level, the bookmarklet will not work anymore.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Force Darkmode.txt: 
 =
@@ -25,7 +24,6 @@ It's worth mentioning that this is a simplified example, and different website c
 
 Also, depending on the website, this may cause issues with certain elements that are not intended to be affected by this change, so you should use it carefully.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Tab Title Changer.txt: 
 =
@@ -37,4 +35,3 @@ Keep in mind that this will only change the title of the tab, and it will not ch
 
 Also, some website may have certain restrictions that could prevent you from changing the title, so you should check if it's possible to edit the title before using the bookmarklet.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
