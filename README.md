@@ -3,7 +3,7 @@ These peices of code are ment to be put into the form of a bookmark. Then, when 
 I am adding more and more soon so just wait!!
 What you need to know about each bookmarklet
 
-Zoom modifyer: You can add this code as a bookmark in your browser's bookmarks toolbar and then click on it when you're on a webpage.
+Zoom Bookmarklet.txt: You can add this code as a bookmark in your browser's bookmarks toolbar and then click on it when you're on a webpage.
 
 You can also customize the function to your needs, this is just a basic example.
 
@@ -17,3 +17,11 @@ This bookmarklet uses JavaScript to create a new style element and add it to the
 It's worth mentioning that this is a simplified example, and different website could have different css classes and ids which could make it difficult to force dark mode on all of them. However, this script can still be used as a starting point to make some changes to a website css.
 
 Also, depending on the website, this may cause issues with certain elements that are not intended to be affected by this change, so you should use it carefully.
+
+Tab Title Changer.txt: You can add this code as a bookmark in your browser's bookmarks toolbar, and then click on it when you're on a webpage.
+
+This bookmarklet uses JavaScript to prompt the user to enter a new title, and then sets the document's title to the new title.
+
+Keep in mind that this will only change the title of the tab, and it will not change the title of the webpage as it is shown in the website's HTML, this means that if you reload the page the title will go back to the original one.
+
+Also, some website may have certain restrictions that could prevent you from changing the title, so you should check if it's possible to edit the title before using the bookmarklet.
