@@ -1,0 +1,1 @@
+javascript:(function(){document.body.style.backgroundColor='Insert color here';})();
