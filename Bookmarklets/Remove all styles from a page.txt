@@ -1,0 +1,1 @@
+javascript:(function(){for(i=0;i<document.styleSheets.length;i++) {document.styleSheets[i].disabled=true;}})();
