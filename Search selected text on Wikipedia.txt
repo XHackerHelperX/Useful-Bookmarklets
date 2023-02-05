@@ -1,1 +1,0 @@
-javascript:(function(){window.open('https://en.wikipedia.org/wiki/'+window.getSelection());})();
